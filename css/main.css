@@ -1,0 +1,45 @@
+body {
+  width: 80%;
+  max-width: 40rem;
+  margin: auto;
+  background-color: #e0bb20;
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 600;
+}
+
+.link {
+  font-weight: 600;
+  color: #000000;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #47c914;
+}
+
+hr{
+  color: #35d0ba;
+  background-color: #35d0ba;
+}
+
+.pagetitle {
+  padding-top: 5rem;
+  font-size: 4rem;
+  color: #841818;
+}
+
+.content{
+  font-size: 1.3rem;
+  color: #1d1919;
+  font-weight: 700;
+}
+
+footer {
+  /* font-size: small; */
+  padding-top: 50px;
+  bottom: 20px;
+  /* height: 2em; */
+  left: 0;
+  position: relative;
+  width: 100%;
+}
